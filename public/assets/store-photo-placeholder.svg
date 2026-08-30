@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Placeholder foto toko">
+  <rect width="800" height="600" fill="#f1f5f9"/>
+  <rect x="16" y="16" width="768" height="568" rx="20" fill="none" stroke="#c3cede" stroke-width="3" stroke-dasharray="14 10"/>
+  <g fill="none" stroke="#8fa1bd" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M280 250 L290 190 H510 L520 250"/>
+    <path d="M270 250 a30 30 0 0 0 60 0 a30 30 0 0 0 60 0 a30 30 0 0 0 60 0 a30 30 0 0 0 60 0 a30 30 0 0 0 60 0"/>
+    <path d="M292 296 V430 H508 V296"/>
+    <path d="M372 430 V340 H428 V430"/>
+  </g>
+  <text x="400" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#64748b">Foto toko belum ditambahkan</text>
+  <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#94a3b8">Ganti file ini melalui src/data/siteData.js</text>
+</svg>

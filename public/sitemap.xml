@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Samakan domain di sini dengan nilai site.url di src/data/siteData.js.
+     Artikel baru: tambahkan <url> baru di bawah baris artikel terakhir. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://drgroup.com/</loc></url>
+  <url><loc>https://drgroup.com/layanan</loc></url>
+  <url><loc>https://drgroup.com/lokasi-toko</loc></url>
+  <url><loc>https://drgroup.com/cara-kerja</loc></url>
+  <url><loc>https://drgroup.com/artikel</loc></url>
+  <url><loc>https://drgroup.com/faq</loc></url>
+  <url><loc>https://drgroup.com/kontak</loc></url>
+  <url><loc>https://drgroup.com/syarat-ketentuan</loc></url>
+  <url><loc>https://drgroup.com/kebijakan-privasi</loc></url>
+  <url><loc>https://drgroup.com/artikel/tips-membeli-hp-second</loc></url>
+  <url><loc>https://drgroup.com/artikel/cara-cek-iphone-second</loc></url>
+  <url><loc>https://drgroup.com/artikel/cara-cek-hp-android-second</loc></url>
+  <url><loc>https://drgroup.com/artikel/faktor-harga-jual-hp-second</loc></url>
+  <url><loc>https://drgroup.com/artikel/jual-hp-atau-tukar-tambah</loc></url>
+  <url><loc>https://drgroup.com/artikel/checklist-sebelum-menjual-hp</loc></url>
+  <url><loc>https://drgroup.com/artikel/hp-second-yang-masih-layak-dipakai</loc></url>
+  <url><loc>https://drgroup.com/artikel/panduan-membeli-smartphone-second-sidoarjo</loc></url>
+</urlset>

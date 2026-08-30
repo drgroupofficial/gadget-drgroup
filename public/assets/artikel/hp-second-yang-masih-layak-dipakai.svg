@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Cara Mengetahui HP Second yang Masih Layak Dipakai">
+  <rect width="1200" height="675" fill="#101d33"/>
+  <circle cx="1100" cy="80" r="200" fill="#ffffff" opacity="0.05"/>
+  <circle cx="80" cy="620" r="170" fill="#ffffff" opacity="0.05"/>
+  <rect x="880" y="180" width="180" height="360" rx="30" fill="none" stroke="#ffffff" stroke-width="10" opacity="0.35"/>
+  <line x1="940" y1="200" x2="1000" y2="200" stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.35"/>
+  <rect x="90" y="120" width="150" height="10" rx="5" fill="#f59e0b"/>
+  <text x="90" y="250" font-family="Arial, sans-serif" font-size="58" font-weight="bold" fill="#ffffff">Cara Mengetahui HP Second</text>
+  <text x="90" y="322" font-family="Arial, sans-serif" font-size="58" font-weight="bold" fill="#ffffff">yang Masih Layak Dipakai</text>
+  <text x="90" y="580" font-family="Arial, sans-serif" font-size="26" fill="#ffffff" opacity="0.7">Almira Gadget &amp; DRSTORE</text>
+</svg>
