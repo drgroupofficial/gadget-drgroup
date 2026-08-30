@@ -16,7 +16,9 @@ import NotFoundPage from "./pages/NotFoundPage.jsx";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter
+  basename={import.meta.env.BASE_URL.replace(/\/$/, "") || "/"}
+>
       <ScrollToTop />
       <a className="skip-link" href="#konten-utama">
         Langsung ke konten utama
