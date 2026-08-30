@@ -14,7 +14,7 @@ export const articlesA = [
     publishedDate: "2026-08-23",
     updatedDate: "2026-08-23",
     author: "Tim Almira Gadget & DRSTORE",
-    featuredImage: "/assets/artikel/tips-membeli-hp-second.svg",
+    featuredImage: import.meta.env.BASE_URL + "assets/artikel/tips-membeli-hp-second.svg",
     featuredImageAlt:
       "Ilustrasi pemeriksaan smartphone second sebelum dibeli di toko",
     seoTitle: "Tips Membeli HP Second agar Tidak Salah Pilih | Almira Gadget & DRSTORE",
@@ -66,7 +66,7 @@ export const articlesA = [
     publishedDate: "2026-08-23",
     updatedDate: "2026-08-23",
     author: "Tim Almira Gadget & DRSTORE",
-    featuredImage: "/assets/artikel/cara-cek-iphone-second.svg",
+    featuredImage: import.meta.env.BASE_URL + "assets/artikel/cara-cek-iphone-second.svg",
     featuredImageAlt:
       "Ilustrasi pemeriksaan iPhone second mulai dari layar hingga battery health",
     seoTitle: "Cara Cek iPhone Second Sebelum Membeli | Almira Gadget & DRSTORE",
@@ -121,7 +121,7 @@ export const articlesA = [
     publishedDate: "2026-08-23",
     updatedDate: "2026-08-23",
     author: "Tim Almira Gadget & DRSTORE",
-    featuredImage: "/assets/artikel/cara-cek-hp-android-second.svg",
+    featuredImage: import.meta.env.BASE_URL + "assets/artikel/cara-cek-hp-android-second.svg",
     featuredImageAlt:
       "Ilustrasi pemeriksaan HP Android second dari layar hingga akun produsen",
     seoTitle: "Cara Cek HP Android Second Sebelum Membeli | Almira Gadget & DRSTORE",
@@ -173,7 +173,7 @@ export const articlesA = [
     publishedDate: "2026-08-23",
     updatedDate: "2026-08-23",
     author: "Tim Almira Gadget & DRSTORE",
-    featuredImage: "/assets/artikel/faktor-harga-jual-hp-second.svg",
+    featuredImage: import.meta.env.BASE_URL + "assets/artikel/faktor-harga-jual-hp-second.svg",
     featuredImageAlt:
       "Ilustrasi faktor-faktor yang memengaruhi nilai jual smartphone second",
     seoTitle: "Faktor yang Mempengaruhi Harga Jual HP Second | Almira Gadget & DRSTORE",

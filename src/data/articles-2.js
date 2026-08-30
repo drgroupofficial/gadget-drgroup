@@ -10,7 +10,7 @@ export const articlesB = [
     publishedDate: "2026-08-23",
     updatedDate: "2026-08-23",
     author: "Tim Almira Gadget & DRSTORE",
-    featuredImage: "/assets/artikel/jual-hp-atau-tukar-tambah.svg",
+    featuredImage: import.meta.env.BASE_URL + "assets/artikel/jual-hp-atau-tukar-tambah.svg",
     featuredImageAlt:
       "Ilustrasi perbandingan menjual HP langsung dengan tukar tambah",
     seoTitle: "Jual HP atau Tukar Tambah, Mana yang Lebih Cocok? | Almira Gadget & DRSTORE",
@@ -59,7 +59,7 @@ export const articlesB = [
     publishedDate: "2026-08-23",
     updatedDate: "2026-08-23",
     author: "Tim Almira Gadget & DRSTORE",
-    featuredImage: "/assets/artikel/checklist-sebelum-menjual-hp.svg",
+    featuredImage: import.meta.env.BASE_URL + "assets/artikel/checklist-sebelum-menjual-hp.svg",
     featuredImageAlt:
       "Ilustrasi checklist persiapan sebelum menjual HP second ke toko",
     seoTitle: "Checklist Sebelum Menjual HP Second ke Toko | Almira Gadget & DRSTORE",
@@ -105,7 +105,7 @@ export const articlesB = [
     publishedDate: "2026-08-23",
     updatedDate: "2026-08-23",
     author: "Tim Almira Gadget & DRSTORE",
-    featuredImage: "/assets/artikel/hp-second-yang-masih-layak-dipakai.svg",
+    featuredImage: import.meta.env.BASE_URL + "assets/artikel/hp-second-yang-masih-layak-dipakai.svg",
     featuredImageAlt:
       "Ilustrasi penilaian kelayakan smartphone second dari performa dan baterai",
     seoTitle: "Cara Mengetahui HP Second yang Masih Layak Dipakai | Almira Gadget & DRSTORE",
@@ -152,7 +152,7 @@ export const articlesB = [
     publishedDate: "2026-08-23",
     updatedDate: "2026-08-23",
     author: "Tim Almira Gadget & DRSTORE",
-    featuredImage: "/assets/artikel/panduan-membeli-smartphone-second-sidoarjo.svg",
+    featuredImage: import.meta.env.BASE_URL + "assets/artikel/panduan-membeli-smartphone-second-sidoarjo.svg",
     featuredImageAlt:
       "Ilustrasi panduan membeli smartphone second di toko area Sidoarjo",
     seoTitle: "Panduan Membeli Smartphone Second di Sidoarjo | Almira Gadget & DRSTORE",
