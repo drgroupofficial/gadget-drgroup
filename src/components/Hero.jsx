@@ -40,7 +40,7 @@ export function Hero() {
         </div>
         <div className="hero-media">
           <img
-            src="/assets/hero-toko.jpg"
+            src={`${import.meta.env.BASE_URL}assets/hero-toko.jpg`}
             alt="Etalase berisi jajaran smartphone di toko Almira Gadget & DRSTORE"
             width="2000"
             height="1500"
