@@ -58,7 +58,7 @@ export const stores = [
     instagram: "almiragadget_sidoarjo",
     tiktok: "almira_gadget",
     mapsUrl:
-      "https://www.google.com/maps/search/?api=1&query=Jl.+Raya+Saimbang,+Kebonagung,+Kec.+Sukodono,+Kabupaten+Sidoarjo,+Jawa+Timur+61258",
+      "https://www.google.com/maps/search/?api=1&query=Almira%20Gadget%20Sidoarjo&query_place_id=ChIJlea70dfj1y0RqT1DFprQIPM",
     mapsEmbedUrl:
       "https://maps.google.com/maps?q=Jl.%20Raya%20Saimbang%2C%20Kebonagung%2C%20Kec.%20Sukodono%2C%20Kabupaten%20Sidoarjo%2C%20Jawa%20Timur%2061258&output=embed",
     operatingDays: "Senin - Minggu",
@@ -80,7 +80,7 @@ export const stores = [
     instagram: "drstore_sidoarjo",
     tiktok: "drstore.sidoarjo",
     mapsUrl:
-      "https://www.google.com/maps/search/?api=1&query=Jalan+Sumotuwo,+Ngampelsari,+Kec.+Candi,+Kabupaten+Sidoarjo,+Jawa+Timur+61271",
+      "https://www.google.com/maps/search/?api=1&query=DR%20STORE%20SIDOARJO&query_place_id=ChIJhSVpu7Xg1y0RQtgxnXTEMCA",
     mapsEmbedUrl:
       "https://maps.google.com/maps?q=Jalan%20Sumotuwo%2C%20Ngampelsari%2C%20Kec.%20Candi%2C%20Kabupaten%20Sidoarjo%2C%20Jawa%20Timur%2061271&output=embed",
     operatingDays: "Senin - Minggu",
@@ -102,7 +102,7 @@ export const stores = [
     instagram: "drstore_tropodo",
     tiktok: "dr.store.tropodo",
     mapsUrl:
-      "https://www.google.com/maps/search/?api=1&query=Jl.+Raya+Tropodo+No.03,+Tropodo+Wetan,+Kec.+Waru,+Kabupaten+Sidoarjo,+Jawa+Timur+61256",
+      "https://www.google.com/maps/search/?api=1&query=DR%20STORE%20TROPODO&query_place_id=ChIJR4XucD3l1y0RgtpzRgKcQRY",
     mapsEmbedUrl:
       "https://maps.google.com/maps?q=Jl.%20Raya%20Tropodo%20No.03%2C%20Tropodo%20Wetan%2C%20Kec.%20Waru%2C%20Kabupaten%20Sidoarjo%2C%20Jawa%20Timur%2061256&output=embed",
     operatingDays: "Senin - Minggu",
